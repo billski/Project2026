@@ -1,0 +1,15 @@
+# Ignore hidden Obsidian files
+.obsidian/
+.obsidian-workspace
+.obsidian*
+
+# Ignore image files
+.heic
+.heif
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+.obsidian/
