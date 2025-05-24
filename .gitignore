@@ -2,10 +2,11 @@
 .obsidian/
 .obsidian-workspace
 .obsidian*
+.obsidian
 
 # Ignore image files
-.heic
-.heif
+*.heic
+*.heif
 *.jpg
 *.jpeg
 *.png
@@ -13,3 +14,4 @@
 *.bmp
 *.webp
 .obsidian/
+templates/*

@@ -6,4 +6,4 @@ A daily fitness & nutrition journal from May 2025 to May 2026.
 - 🔁 Track: Weight, sleep, mood, macros, cardio, workouts, body scans
 - 🔒 Private Git versioned journal
 
-➡️ See [index.md](./index.md) for quick access to daily entries.
+➡️ See [index.md](index.md) for quick access to daily entries.

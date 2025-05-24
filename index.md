@@ -3,6 +3,6 @@
 Quick links to daily logs.
 
 ## May 2025
-- [2025-05-19](2025-05-19.md)
+- [2025-05-20](2025-05-20.md)
 
 (Add new dates as you go.)
