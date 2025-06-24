@@ -41,7 +41,7 @@ Quick links to daily logs.
 - [2025-06-22](journal/June/2025-06-22.md)
 - [2025-06-23](journal/June/2025-06-23.md)
 - [2025-06-24](journal/June/2025-06-24.md)
-- [2025-06-25](journal/June/2025-06-25.md)
+- [2025-06-24](2025-06-24.md)
 - [2025-06-26](journal/June/2025-06-26.md)
 - [2025-06-27](journal/June/2025-06-27.md)
 - [2025-06-28](journal/June/2025-06-28.md)
