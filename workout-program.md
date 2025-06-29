@@ -16,7 +16,7 @@
 
 ## 🦵 Lower Body (Hypertrophy)
 - Bulgarian Split Squats
-- Lying Hamstring Curls
+- Romanian Deadlift
 - Crab walk
 - Cable Hip Abductions
 - Ab/Core Work
@@ -45,7 +45,6 @@
 
 ## ⚙️ Lower Body (Strength Emphasis)
 - Squats
-- Romanian Deadlifts
 - Hamstring curl
 - Hip Thrusts
 - Hip Adductions
